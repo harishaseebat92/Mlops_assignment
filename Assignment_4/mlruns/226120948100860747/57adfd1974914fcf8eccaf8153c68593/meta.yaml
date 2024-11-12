@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226120948100860747/57adfd1974914fcf8eccaf8153c68593/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '226120948100860747'
+lifecycle_stage: active
+run_id: 57adfd1974914fcf8eccaf8153c68593
+run_name: bright-mare-631
+run_uuid: 57adfd1974914fcf8eccaf8153c68593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730208468922
+status: 1
+tags: []
+user_id: DELL

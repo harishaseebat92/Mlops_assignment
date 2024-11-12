@@ -1,0 +1,58 @@
+For Iris Dataset:
+Quantization: 8-bit
+Decision Tree: Mean Accuracy = 0.947, Std Dev = 0.058
+k-NN: Mean Accuracy = 0.973, Std Dev = 0.025
+SVM: Mean Accuracy = 0.980, Std Dev = 0.016
+
+Quantization: 4-bit
+Decision Tree: Mean Accuracy = 0.940, Std Dev = 0.057
+k-NN: Mean Accuracy = 0.967, Std Dev = 0.021
+SVM: Mean Accuracy = 0.960, Std Dev = 0.039
+
+Quantization: 2-bit
+Decision Tree: Mean Accuracy = 0.813, Std Dev = 0.081
+k-NN: Mean Accuracy = 0.773, Std Dev = 0.033
+SVM: Mean Accuracy = 0.820, Std Dev = 0.062
+
+For Wine Dataset:
+Quantization: 8-bit
+Decision Tree: Mean Accuracy = 0.899, Std Dev = 0.062
+k-NN: Mean Accuracy = 0.669, Std Dev = 0.060
+SVM: Mean Accuracy = 0.439, Std Dev = 0.049
+
+Quantization: 4-bit
+Decision Tree: Mean Accuracy = 0.899, Std Dev = 0.037
+k-NN: Mean Accuracy = 0.765, Std Dev = 0.089
+SVM: Mean Accuracy = 0.708, Std Dev = 0.059
+
+Quantization: 2-bit
+Decision Tree: Mean Accuracy = 0.933, Std Dev = 0.060
+k-NN: Mean Accuracy = 0.860, Std Dev = 0.049
+SVM: Mean Accuracy = 0.871, Std Dev = 0.051
+
+Full-Precision Model Results:
+Decision Tree: Mean Accuracy = 0.877, Std Dev = 0.057
+k-NN: Mean Accuracy = 0.692, Std Dev = 0.066
+SVM: Mean Accuracy = 0.455, Std Dev = 0.035
+
+this is for breast cancer: 
+
+Quantization: 8-bit
+Decision Tree: Mean Accuracy = 0.923, Std Dev = 0.016
+k-NN: Mean Accuracy = 0.930, Std Dev = 0.025
+SVM: Mean Accuracy = 0.627, Std Dev = 0.004
+
+Quantization: 4-bit
+Decision Tree: Mean Accuracy = 0.953, Std Dev = 0.021
+k-NN: Mean Accuracy = 0.914, Std Dev = 0.023
+SVM: Mean Accuracy = 0.889, Std Dev = 0.015
+
+Quantization: 2-bit
+Decision Tree: Mean Accuracy = 0.919, Std Dev = 0.022
+k-NN: Mean Accuracy = 0.942, Std Dev = 0.031
+SVM: Mean Accuracy = 0.921, Std Dev = 0.017
+
+Full-Precision Model Results:
+Decision Tree: Mean Accuracy = 0.917, Std Dev = 0.016
+k-NN: Mean Accuracy = 0.928, Std Dev = 0.022
+SVM: Mean Accuracy = 0.627, Std Dev = 0.004
