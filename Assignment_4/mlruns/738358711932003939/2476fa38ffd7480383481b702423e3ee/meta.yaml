@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/DELL/OneDrive/Documents/GitHub/Mlops_assignment/Assignment_4/mlruns/738358711932003939/2476fa38ffd7480383481b702423e3ee/artifacts
+end_time: 1730196727353
+entry_point_name: ''
+experiment_id: '738358711932003939'
+lifecycle_stage: active
+run_id: 2476fa38ffd7480383481b702423e3ee
+run_name: Linear Regression
+run_uuid: 2476fa38ffd7480383481b702423e3ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730196721082
+status: 3
+tags: []
+user_id: DELL

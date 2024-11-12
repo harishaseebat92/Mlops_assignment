@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/226120948100860747/138c41254ac54df088c79087eb979453/artifacts
+deleted_time: 1730208520588
+end_time: 1730203101640
+entry_point_name: ''
+experiment_id: '226120948100860747'
+lifecycle_stage: deleted
+run_id: 138c41254ac54df088c79087eb979453
+run_name: Linear Regression
+run_uuid: 138c41254ac54df088c79087eb979453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730203101509
+status: 3
+tags: []
+user_id: DELL

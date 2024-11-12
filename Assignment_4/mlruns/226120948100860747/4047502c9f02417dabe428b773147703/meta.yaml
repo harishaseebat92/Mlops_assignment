@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/226120948100860747/4047502c9f02417dabe428b773147703/artifacts
+deleted_time: 1730208520553
+end_time: 1730208463272
+entry_point_name: ''
+experiment_id: '226120948100860747'
+lifecycle_stage: deleted
+run_id: 4047502c9f02417dabe428b773147703
+run_name: placid-cub-397
+run_uuid: 4047502c9f02417dabe428b773147703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730204817772
+status: 3
+tags: []
+user_id: DELL

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/DELL/OneDrive/Documents/GitHub/Mlops_assignment/Assignment_4/mlruns/991978634921609399/0771749f18064dbea3e7e573de9d112d/artifacts
+end_time: 1730196704605
+entry_point_name: ''
+experiment_id: '991978634921609399'
+lifecycle_stage: active
+run_id: 0771749f18064dbea3e7e573de9d112d
+run_name: Random Forest
+run_uuid: 0771749f18064dbea3e7e573de9d112d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730196698074
+status: 3
+tags: []
+user_id: DELL
